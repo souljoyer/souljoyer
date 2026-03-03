@@ -10,7 +10,7 @@
 ### 🚀 Технологічний стек
 * **Мови:** Python (Active learning)
 * **CyberSec:** Reverse Engineering (Basics), Software Protection
-* **Інструменти:** Linux (Ubuntu), Git, Docker (In progress)
+* **Інструменти:** Linux (Fedora), Git, Docker (In progress)
 * **Навчання:** Udemy Python Professional Courses
 
 ---
