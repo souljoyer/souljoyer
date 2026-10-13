@@ -1,4 +1,4 @@
-# 🛡️ Souljoyer | Junior Python Developer & Cyber Security Student
+# 🛡️ Junior Python Developer & Cyber Security Student
 
 ### 👨‍💻 Про мене
 Я студент 1-го курсу за спеціальністю "Кібербезпека". 
